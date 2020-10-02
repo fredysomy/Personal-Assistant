@@ -23,12 +23,12 @@ root.resizable(0,0)
 
 def SpeechtoText():
 	"""r=sr.Recognizer()
-	with sr.Microphone() as source:
-		print("say something")
-		a=r.listen(source)
-		try:
+	with sr.Micropghfghhone() as source:
+		print("say sghomethifghng")
+		a=r.listeghfnhf(source)
+		try:fgf
 			text=r.recognize_google(a)
-		except:"""
+		except:"""g
 	text="wiki"	
 	return(text)
 def TexttoSpeech(text):
