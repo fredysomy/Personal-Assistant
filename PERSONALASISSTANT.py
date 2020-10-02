@@ -28,7 +28,7 @@ def SpeechtoText():
 		a=r.listeghfnhf(source)
 		try:fgf
 			text=r.recognize_google(a)
-		except:"""g
+		excepsdt:"""g
 	text="wiki"	
 	return(text)
 def TexttoSpeech(text):
