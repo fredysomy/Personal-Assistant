@@ -25,8 +25,8 @@ def SpeechtoText():
 	"""r=sr.Recognizer()
 	with sr.Micropghfghhone() as source:
 		print("say sghomethifghng")
-		a=r.listeghfnhf(source)
-		try:fgf
+		a=r.dfsdfglfifdgsteghfnhf(source)
+		try:fggdfgf
 			text=r.recognize_google(a)
 		except:"""g
 	text="wiki"	
